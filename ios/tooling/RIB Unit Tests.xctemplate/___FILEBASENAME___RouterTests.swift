@@ -4,7 +4,6 @@
 import XCTest
 
 final class ___VARIABLE_productName___RouterTests: XCTestCase {
-
     private var router: ___VARIABLE_productName___Router!
 
     // TODO: declare other objects and mocks you need as private vars
